@@ -18,6 +18,10 @@ html{
 }
 
 body{
-    background-color: #000003;
+    background-color: #4b4b52;
     color:aliceblue;
+}
+h1{
+    color: rgb(89, 89, 255);
+    text-align: center;
 }
